@@ -1,6 +1,6 @@
 import axios from "axios";
 import Pagination from "components/Pagination";
-import { resourceUsage } from "process";
+//import { resourceUsage } from "process";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sale";
 import { formatLocalDate } from "utils/format";
